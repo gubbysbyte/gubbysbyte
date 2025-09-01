@@ -1,53 +1,105 @@
-### Hi there 👋
-* 👂 My name is ...
-* 👩 Pronouns: ...
-* 🔭 I’m currently working on ...
-* 🌱 I’m currently learning ...
-* 🤝 I’m looking to collaborate on ...
-* 🤔 I’m looking for help with ...
-* 💬 Ask me about ...
-* 📫 How to reach me: ...
-* ❤️ I love ...
-* ⚡ Fun fact: ...
+<div align="center">
+  
+# Hi there, I'm Ritwik Ranjan 👋
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kailashmauryaa)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kailashwork1@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/ritwikranjan?label=Follow&style=for-the-badge)](https://github.com/gubbysbyte)
 
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
+</div>
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-</p>
+## 🚀 About Me
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+I'm a **Software Engineer** working with expertise in cloud-native networking, observability, and distributed systems. Currently based in Delhi, India, I work on enhancing developer productivity and building scalable network observability solutions.
 
-name: Generate Datas
-on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    name: Jobs to update datas
-    runs-on: ubuntu-latest
-    steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
-with:
-          github_user_name: thepiyushmalhotra
-          svg_out_path: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+### 🎯 Quick Facts
+- 🛠️ Tech Stack: Kubernetes, Python, JavaScript, Kotlin, TypeScript
+- 📚 B.Tech Computer Engineering from Delhi Technological University (8.17/10.0)
+- ♟️ Elo enthusiast & open-source contributor
 
+## 💼 Professional Experience
 
+### **Software Development Engineer I** @ Blowtrumpet
+*January 2025 - August 2025 | New Delhi, India*
+
+- 🚀 Enhancing developer productivity through CI/CD improvements and test automation
+- 🔍 Building network observability solutions with focus on microservices
+- 📊 Reduced memory usage by ~15% through performance optimization
+- 🎯 Contributing to open-source projects and community engagement
+
+## 🏗️ Featured Projects & Contributions
+
+### 🌟 **Open Source Contributions**
+- Active contributor to network observability projects
+- Improved documentation and standardized nomenclature for better contributor experience
+
+## 🛠️ Technical Skills
+
+<div align="center">
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+</div>
+
+### 🔧 Expertise Areas
+- **Cloud Native:** Kubernetes, eBPF, Service Mesh, Container Networking
+- **Observability:** Distributed Tracing, Metrics, Logging, Performance Profiling
+- **Languages:** Go, Java, Kotlin, Python, TypeScript, C/C++
+- **Tools:** GitHub Actions, Prometheus, Azure Monitor, AWS CloudWatch
+
+## 🌐 Career Journey
+
+```mermaid
+graph LR
+    A[DTU Student<br/>2020-2024] --> B[Internships<br/>Molitics Infomedia<br/>2022-2022]
+    B --> C[SDE I<br/>Blowtrumpet<br/>2022-2024]
+```
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gubbysbyte&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gubbysbyte&layout=compact&theme=radical)
+
+</div>
+
+## 🎯 Current Focus
+
+- 🔭 Building cloud-native network observability solutions
+- 🌱 Exploring eBPF for high-performance networking
+- 👯 Contributing to open-source Kubernetes ecosystem
+- 💬 Ask me about distributed systems, cloud networking, or performance optimization
+- 🎤 Preparing technical talks for cloud-native conferences
+
+## 🎮 Beyond Code
+
+When I'm not optimizing systems and building tools, you'll find me:
+- 📚 Reading novels (The Witcher & Harry Potter enthusiast!)
+- 👨‍🍳 Experimenting with culinary adventures
+- 🤝 Volunteering for community causes
+- 🚀 Exploring emerging tech trends
+- ✈️ Attending tech conferences and meetups
+
+---
+
+<div align="center">
+  
+### 📫 Let's Connect!
+
+I'm always open to discussing cloud-native technologies, performance optimization, or collaboration opportunities!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/kailashmauryaa)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge)](mailto:kailashwork1@gmail.com)
+
+*"Building the future of cloud networking, one commit at a time"* 🚀
+
+</div>
