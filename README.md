@@ -58,8 +58,8 @@ I'm a **Software Engineer** working with expertise in cloud-native networking, o
 
 ```mermaid
 graph LR
-    A[DTU Student<br/>2020-2024] --> B[Internships<br/>Molitics Infomedia<br/>2022-2022]
-    B --> C[SDE I<br/>Blowtrumpet<br/>2022-2024]
+    A[DTU Student<br/>2020-2024] --> B[Internships<br/>Molitics Infomedia<br/>2022-2023]
+    B --> C[SDE I<br/>Blowtrumpet<br/>2024-2025]
 ```
 
 ## 📊 GitHub Stats
